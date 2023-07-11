@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "Somos Cryptobros",
+    "paragraph": "Cryptobros es tu aliado confiable en el  mundo de la minería de Bitcoin. Nos especializamos en la venta y reparación de ASICs. Además, ofrecemos servicios de instalación de sistemas de refrigeración por Hidrocooling, garantizando un rendimiento óptimo y una vida útil prolongada para tus ASICs. Con nuestro conocimiento experto y compromiso con la calidad, en Cryptobros estamos listos para ayudarte a maximizar tus ganancias."
+  },
+  "About": {
+    "paragraph": "¡Bienvenidos a Cryptobros! Somos un equipo de cuatro socios y amigos apasionados por la minería de Bitcoin. Comenzamos nuestra travesía en el mundo de las criptomonedas en 2018, como un hobbie, utilizando rigs de minería de GPUs. Con el tiempo, hemos crecido y nos hemos especializado en la venta de asics de alta calidad y soluciones de hydrocooling para la minería de Bitcoin. Nuestro objetivo es ayudarte a maximizar tus ganancias y éxito en esta emocionante industria. ¡Únete a nosotros y sé parte de nuestra historia!",
+    "Why": [
+      "Experiencia en minería",
+      "Productos de calidad",
+      "Conocimiento especializado",
+      "Servicio al cliente excepcional"
+    ],
+    "Why2": [
+      "Confianza y fiabilidad",
+      "Soporte técnico dedicado",
+      "Opiniones positivas de clientes"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Granja para cliente",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Granja para cliente",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Granja para cliente",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Armado de Hydro",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Armado de Hydro",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Equipos nuevos siempre en stock",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Equipos nuevos siempre en stock",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Servicio Tecnico Profesional",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Servicio Tecnico Profesional",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-thermometer-empty",
+      "name": "Mejor Eficiencia",
+      "text": "mayor eficiencia energética al mantener temperaturas óptimas, reduciendo consumo y mejorando eficiencia general."
+    },
+    {
+      "icon": "fa fa-check-circle ",
+      "name": "Vida Util Prolongada",
+      "text": "El hydrocooling prolonga vida útil de ASICs al reducir estrés térmico, disminuyendo desgaste y aumentando durabilidad."
+    },
+    {
+      "icon": "fa fa-volume-off",
+      "name": "Menos ruido",
+      "text": "El hydrocooling produce menos ruido que el de los coolers originales del equipo, permitiendote que lo tengas en cualquier lugar sin que sea molesto"
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Menor mantenimiento",
+      "text": "El hydrocooling requiere menos mantenimiento en comparación con otros métodos de enfriamiento. No es necesario limpiar regularmente los ventiladores, lo que reduce los costos y el tiempo dedicado al mantenimiento."
+    },
+    {
+      "icon": "fa fa-plus",
+      "name": "Escalable",
+      "text": "El hydrocooling es escalable ya que se puede sobredimensionar la unidad exterior, para que luego sea solo agregar los equipos"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Mayor Rendimiento",
+      "text": " Al mantener las temperaturas de los ASICs más bajas, el hydrocooling ayuda a prevenir el sobrecalentamiento de los componentes, lo que a su vez permite un mayor rendimiento y una mayor velocidad de hash."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Canning, Buenos Aires ",
+    "phoneUrl": "https://wa.me/5491134136204?text=Hola%20estoy%20interesado%20en%20los%20asics%20de%20BTC",
+    "phone": "+54 9 11 3413 6204",
+    "email": "info@company.com",
+    "notaUrl": "https://www.criptonoticias.com/mineria/jovenes-argentinos-desarrollan-refrigeracion-liquida-universal-mineros-bitcoin/",
+    "notaLabel": "Click Aca",
+    "instagram": "https://www.instagram.com/cryptobros.ok",
+    "whatsapp": "https://wa.me/5491134136204?text=Hola%20estoy%20interesado%20en%20los%20asics%20de%20BTC",
+    "diario": "https://www.criptonoticias.com/mineria/jovenes-argentinos-desarrollan-refrigeracion-liquida-universal-mineros-bitcoin/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-shopping-cart",
+      "title": "Venta de equipos",
+      "text": "Contamos con un amplio catalogo de equipos en stock, listos para minar a tu wallet."
+    },
+    {
+      "icon": "fa fa-snowflake-o",
+      "title": "Sistemas de refrigueracion",
+      "text": "Instalacion del sistema de hydrocooling para mejorar la eficiencia y reducir ruidos molestos"
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "Servicio tecnico",
+      "text": "Si tus asic no funciona correctamente, nosotros podemos repararlo"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Atencion personalizada",
+      "text": "Contamos con atencion personalizada para ayudarte a resolver todas tus dudas"
+    }
+  ]
+}
