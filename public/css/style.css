@@ -625,3 +625,18 @@ label {
     font-size: 44px;
   }
 }
+
+@media (max-width: 324px) {
+
+  .intro h1 {
+    font-size: 38px;
+  }
+
+  .intro p {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+}
