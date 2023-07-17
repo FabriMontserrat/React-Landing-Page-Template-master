@@ -24,6 +24,7 @@ export const Contact = (props) => {
       .then(
         (result) => {
           console.log(result.text);
+          alert("Su mensaje fue enviado correctamente")
           clearState();
         },
         (error) => {
