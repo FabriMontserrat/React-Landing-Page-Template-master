@@ -53,11 +53,6 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#team" className="page-scroll">
-                Nuestro Equipo
-              </a>
-            </li>
-            <li>
               <a href="#contact" className="page-scroll">
                 Contacto
               </a>
@@ -68,3 +63,12 @@ export const Navigation = (props) => {
     </nav>
   );
 };
+
+
+/* agregar en la linea 55:               
+          <li>
+              <a href="#team" className="page-scroll">
+              Nuestro Equipo
+            </a>
+          </li>
+*/
