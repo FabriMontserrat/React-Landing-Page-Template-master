@@ -46,7 +46,7 @@ export const Contact = (props) => {
               </div>
               <form name="sentMessage" onSubmit={handleSubmit}>
                 <div className="row">
-                  <div className="col-md-6">
+                  <div className="col-md-4">
                     <div className="form-group">
                       <input
                         type="text"
@@ -60,7 +60,21 @@ export const Contact = (props) => {
                       <p className="help-block text-danger"></p>
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-3">
+                    <div className="form-group">
+                      <input
+                        type="text"
+                        id="name"
+                        name="emailjs_wpp"
+                        className="form-control"
+                        placeholder="Whats app"
+                        optional
+                        onChange={handleChange}
+                      />
+                      <p className="help-block text-danger"></p>
+                    </div>
+                  </div>
+                  <div className="col-md-5">
                     <div className="form-group">
                       <input
                         type="email"
