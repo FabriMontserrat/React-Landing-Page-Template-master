@@ -117,7 +117,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
                 </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                <a href={props.data ? props.data.mailto : "loading"} target="_blank" >{props.data ? props.data.email : "loading"}</a>
               </p>
             </div>
             <div className="contact-item">
