@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Somos Cryptobros",
-    "paragraph": "Cryptobros es tu aliado confiable en el  mundo de la minería de Bitcoin. Nos especializamos en la venta y reparación de ASICs. Además, ofrecemos servicios de instalación de sistemas de refrigeración por Hydrocooling, garantizando un rendimiento óptimo y una vida útil prolongada para tus ASICs. Con nuestro conocimiento experto y compromiso con la calidad, en Cryptobros estamos listos para ayudarte a maximizar tus ganancias."
+    "paragraph": "Cryptobros es tu aliado confiable en el  mundo de la minería de Bitcoin. Nos especializamos en la venta y reparación de ASICs. Además, ofrecemos servicios de instalación de sistemas de refrigeración por Hydrocooling, garantizando un rendimiento óptimo y una vida útil prolongada para tus ASICs."
   },
   "About": {
-    "paragraph": "¡Bienvenidos a Cryptobros! Somos un equipo de cuatro socios y amigos apasionados por la minería de Bitcoin. Comenzamos nuestra travesía en el mundo de las criptomonedas en 2018, como un hobbie, utilizando rigs de minería de GPUs. Con el tiempo, hemos crecido y nos hemos especializado en la venta de asics de alta calidad y soluciones de hydrocooling para la minería de Bitcoin. Nuestro objetivo es ayudarte a maximizar tus ganancias y éxito en esta emocionante industria. ¡Únete a nosotros y sé parte de nuestra historia!",
+    "paragraph": "¡Bienvenidos a Cryptobros! Somos un equipo de socios y amigos apasionados por la minería de Bitcoin. Comenzamos nuestra travesía en el mundo de las criptomonedas en 2018, como un hobbie, utilizando rigs de minería de GPUs. Con el tiempo, hemos crecido y nos hemos especializado en la venta de asics de alta calidad y soluciones de hydrocooling para la minería de Bitcoin. Nuestro objetivo es ayudarte a maximizar tus ganancias y éxito en esta emocionante industria.",
     "Why": [
       "Experiencia en minería",
       "Productos de calidad",
@@ -19,27 +19,27 @@
   },
   "Gallery": [
     {
-      "title": "Granja para cliente",
+      "title": "Armado de Granja",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Granja para cliente",
+      "title": "Armado de Granja",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Granja para cliente",
+      "title": "Armado de Granja",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Armado de Hydro",
+      "title": "Equipos nuevos siempre en stock",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Armado de Hydro",
+      "title": "Equipos nuevos siempre en stock",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
@@ -49,19 +49,49 @@
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Equipos nuevos siempre en stock",
+      "title": "Sistema Hydro",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Servicio Tecnico Profesional",
+      "title": "Sistema Hydro",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Servicio Tecnico Profesional",
+      "title": "Sistema Hydro",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Sistema Hydro",
+      "largeImage": "img/portfolio/10-large.jpg",
+      "smallImage": "img/portfolio/10-small.jpg"
+    },
+    {
+      "title": "Sistema Hydro",
+      "largeImage": "img/portfolio/11-large.jpg",
+      "smallImage": "img/portfolio/11-small.jpg"
+    },
+    {
+      "title": "Sistema Hydro",
+      "largeImage": "img/portfolio/12-large.jpg",
+      "smallImage": "img/portfolio/12-small.jpg"
+    },
+    {
+      "title": "Sistema Hydro",
+      "largeImage": "img/portfolio/13-large.jpg",
+      "smallImage": "img/portfolio/13-small.jpg"
+    },
+    {
+      "title": "Sistema Hydro",
+      "largeImage": "img/portfolio/14-large.jpg",
+      "smallImage": "img/portfolio/14-small.jpg"
+    },
+    {
+      "title": "Servicio Tecnico Profesional",
+      "largeImage": "img/portfolio/15-large.jpg",
+      "smallImage": "img/portfolio/15-small.jpg"
     }
   ],
   "Services": [
