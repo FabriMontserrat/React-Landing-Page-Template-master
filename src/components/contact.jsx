@@ -24,7 +24,7 @@ export const Contact = (props) => {
       .then(
         (result) => {
           console.log(result.text);
-          alert("Su mensaje fue enviado correctamente \nRecurda que tambien podes contactarnos por WhatsApp")
+          alert("Su mensaje fue enviado correctamente \nRecuerda que tambien podes contactarnos por WhatsApp")
           clearState();
         },
         (error) => {
